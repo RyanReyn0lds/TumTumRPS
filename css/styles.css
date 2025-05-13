@@ -1,0 +1,48 @@
+body{
+    background-image:url(../images/tum1.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.r {
+    background-image: url("../images/rock.avif");
+    }
+.p {
+    background-image: url("../images/paper.avif");
+    }
+.s {
+    background-image: url("../images/scissors.webp");
+    }
+.rps{
+    width: 300px;
+    height: 300px;
+    border: 7px solid black;
+    text-align: center;
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 163px;
+}
+.title{
+    font-size: 3rem;
+    text-align: center;
+    color: red;
+}
+.winlosedraw{
+    font-size: 3rem;
+    text-align: center;
+    color: red;
+}
+.userscore{
+    color: red;
+    font-size: 2.5rem;
+}
+.tumtumscore{
+    color: red;
+    font-size: 2.5rem;
+}
+.t{
+    width: 0px;
+    height: 0px;
+    font-size: 0px;
+}
